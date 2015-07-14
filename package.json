@@ -1,7 +1,7 @@
 {
   "name": "dot-parts",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Split a dot property into its parts",
   "license": "MIT",
   "repository": "bendrucker/dot-parts",
