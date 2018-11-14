@@ -1,4 +1,4 @@
-# dot-parts [![Build Status](https://travis-ci.org/bendrucker/dot-parts.svg?branch=master)](https://travis-ci.org/bendrucker/dot-parts)
+# dot-parts [![Build Status](https://travis-ci.org/bendrucker/dot-parts.svg?branch=master)](https://travis-ci.org/bendrucker/dot-parts) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/dot-parts.svg)](https://greenkeeper.io/)
 
 > Split a dot property into its parts
 
